@@ -58,7 +58,16 @@ header{
     flex-direction: column;
     margin:50px;
     padding:5px;
+    justify-content: center;
+    text-align: center;
 
+}
+.details P{
+    color: #000;
+    font-size: 18px;
+    font-family: Georgia, serif sans-serif;
+    padding: 2px;
+    margin: 8px;
 }
 .details img{
    width: 200px;
